@@ -1,7 +1,7 @@
 ---
 name: Request
 about: Request action on a wallpaper
-title: ''
+title: Request
 labels: request
 assignees: ''
 
